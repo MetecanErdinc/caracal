@@ -1,0 +1,26 @@
+body{
+  background-color: #F4DDCE;
+
+}
+
+.navbar-sağ {
+
+}
+.navbar-nav{
+  width: auto;
+}
+h1{
+  font-family: 'Bungee Shade', cursive;
+}
+
+.mesaj{
+  font-family: 'Bungee Shade', cursive;
+  text-align: center;
+  margin-top: 250px;
+
+}
+
+
+p{
+  font-family: 'Righteous', cursive;
+}

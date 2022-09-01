@@ -1,0 +1,55 @@
+body{
+  background-color: #F4DDCE;
+
+}
+.navbar-sağ {
+
+}
+.navbar-nav{
+  width: auto;
+}
+h1{
+  font-family: 'Bungee Shade', cursive;
+}
+
+
+h6{
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  padding-top: 10px;
+  color: #6F1F03;
+
+}
+img{
+
+      border-radius: 30%;
+      height: 200px;
+      width: 200px;
+      margin-left: 300px;
+}
+
+.head{
+
+  border-radius: 30%;
+  height: 200px;
+
+  margin-left: 300px;
+}
+
+
+.resim-3{
+  margin-top: 100px;
+}
+.col{
+  margin:10px;
+  margin-top:20px;
+}
+
+.img-3 {
+  margin-left: 725px;
+}
+
+p{
+  color: #250200;
+  font-family: 'Righteous', cursive;
+}
